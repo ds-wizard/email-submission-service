@@ -1,0 +1,18 @@
+security:
+  enabled: false
+  tokens:
+    - ...
+
+#logging:
+#  level: WARNING
+#  format: ...
+
+mail:
+  name:
+  email:
+  host:
+  port:
+  security:
+  authEnabled:
+  username:
+  password:
